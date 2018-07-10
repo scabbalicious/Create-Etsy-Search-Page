@@ -99,7 +99,7 @@ var items = {
           "url_75x75":"https:\/\/img.etsystatic.com\/il\/566636\/1465073967\/il_75x75.1465073967_l1f2.jpg?version=0",
           "url_170x135":"https:\/\/img.etsystatic.com\/il\/566636\/1465073967\/il_170x135.1465073967_l1f2.jpg?version=0",
           "url_570xN":"https:\/\/img.etsystatic.com\/il\/566636\/1465073967\/il_570xN.1465073967_l1f2.jpg?version=0",
-          "url_fullxfull":"https:\/\/img.etsystatic.com\/il\/566636\/1465073967\/il_fullxfull.1465073967_l1f2.jpg?version=0",
+          "url_fullxfull":"https:\/\/img.etsystatic.com\/il\/566636/1465073967\/il_fullxfull.1465073967_l1f2.jpg?version=0",
           "full_height":695,
           "full_width":570
         },
